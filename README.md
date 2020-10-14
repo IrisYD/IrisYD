@@ -9,9 +9,7 @@
 
 ### `Bachelor of Engineer | 2007-2012`
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Hustseals.png" width="200"/>
-  
-<br/>
-<br/>
+
  
 ## 👷🏻‍♀️WORK EXPERIENCE
 ### `User Experience Designer, Honeywell | 2012-2016`
