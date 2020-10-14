@@ -7,14 +7,14 @@
 <a href="https://www.northeastern.edu/" target="_blank"><img src="https://news.northeastern.edu/wp-content/uploads/2018/08/Lock.jpg" width="250"/></a>
 
 ### `Bachelor of Engineer | 2007-2012`
-  <a href="https://www.https://www.hust.edu.cn/" target="_blank"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1483512025/ochwnbywj1bibl6rzccs.png" width="500"  /></a>
+  <a href="https://www.https://www.hust.edu.cn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Hustseals.png" width="250"  /></a>
  
 ## 👷🏻‍♀️WORK EXPERIENCE
 ### `User Experience Designer, Honeywell | 2012-2016`
-<a href="https://www.honeywell.com.cn/" target="_blank"><img src="https://s19538.pcdn.co/wp-content/uploads/2017/10/Honeywell-Logo-17.jpg" width="400"/></a>
+<a href="https://www.honeywell.com.cn/" target="_blank"><img src="https://s19538.pcdn.co/wp-content/uploads/2017/10/Honeywell-Logo-17.jpg" width="300"/></a>
 
 ### `Iteraction Design Intern, Tencent | 2010-2010`
-  <a href="https://www.tencent.com/" target="_blank"><img src="https://www.ledgerinsights.com/wp-content/uploads/2019/10/tencent-logo.png" width="400"  /></a>
+  <a href="https://www.tencent.com/" target="_blank"><img src="https://www.ledgerinsights.com/wp-content/uploads/2019/10/tencent-logo.png" width="300"  /></a>
  
 
  ## 💻TECHNICAL SKILLS
