@@ -12,19 +12,19 @@
 ### Huazhong University of Science and Technology 🇨🇳
 
  
-## 👷🏻‍♀️WORK EXPERIENCE
+## 👷🏻‍♀️ WORK EXPERIENCE
 ### `User Experience Designer | 2012-2016`
 ### Honeywell
 
 ### `Iteraction Design Intern | 2010-2010`
 ### Tencent
 
-## 👩🏻‍🔧TECHNICAL SKILLS
+## 👩🏻‍🔧 TECHNICAL SKILLS
 
  <img src="icons/python.png" width="64" height="64"><img src="icons/html5.png" width="64" height="64"><img src="icons/css2.png" width="64" height="64"><img src="icons/java.png" width="64" height="64"><img src="icons/jquery.png" width="64" height="64"><img src="icons/react.png" width="64" height="64">    <img src="icons/angular.png" width="64" height="64">    <img src="icons/nodejs.png" width="64" height="64">    <img src="icons/sketch.png" width="64" height="64">          
 
 
-## 👩🏻MORE ABOUT ME
+## 👩🏻 MORE ABOUT ME
 #### `Childhood 👧🏻 🙇🏻‍♀️📍ENSHI 🇨🇳`
 #### `Youth 📍 WUHAN 🇨🇳`
 #### `Designer & Wife & Mother 📍 SHANGHAI 🇨🇳`
