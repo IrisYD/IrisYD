@@ -5,14 +5,18 @@
 
 ## 👩🏻‍🎓 EDUCATION
 ### `Master of Science, Computer Science | 2020-2022`
+### Northeastern University 🇺🇸
 
 ### `Bachelor of Engineer | 2007-2012`
+### Huazhong University of Science and Technology 🇨🇳
 
  
 ## 👷🏻‍♀️WORK EXPERIENCE
-### `User Experience Designer, Honeywell | 2012-2016`
+### `User Experience Designer | 2012-2016`
+### Honeywell
 
-### `Iteraction Design Intern, Tencent | 2010-2010`
+### `Iteraction Design Intern | 2010-2010`
+### Tencent
 
 ## 💻TECHNICAL SKILLS
 
