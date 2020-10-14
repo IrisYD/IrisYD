@@ -5,18 +5,14 @@
 
 ## 👩🏻‍🎓 EDUCATION
 ### `Master of Science, Computer Science | 2020-2022`
-<img src="https://news.northeastern.edu/wp-content/uploads/2018/08/Lock.jpg" width="200"/>
 
 ### `Bachelor of Engineer | 2007-2012`
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c5/Hustseals.png" width="200"/>
 
  
 ## 👷🏻‍♀️WORK EXPERIENCE
 ### `User Experience Designer, Honeywell | 2012-2016`
-<img src="https://s19538.pcdn.co/wp-content/uploads/2017/10/Honeywell-Logo-17.jpg" width="250"/>
 
 ### `Iteraction Design Intern, Tencent | 2010-2010`
-<img src="https://www.ledgerinsights.com/wp-content/uploads/2019/10/tencent-logo.png" width="250"  />
 
 ## 💻TECHNICAL SKILLS
 
