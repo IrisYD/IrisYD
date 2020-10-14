@@ -1,14 +1,23 @@
-### `📍 San Jose 🇺🇸` 
+# 👩🏻‍💻 Yi Deng 
 
+### `📍 San Jose, CA` 
 
+## 👩🏻‍🎓 EDUCATION
 ### `Master of Science, Computer Science | 2020-2022`
-<a href="https://www.northeastern.edu/"><img src="https://news.northeastern.edu/wp-content/uploads/2018/08/Lock.jpg" width="250"/></a>
+<a href="https://www.northeastern.edu/" target="_blank"><img src="https://news.northeastern.edu/wp-content/uploads/2018/08/Lock.jpg" width="250"/></a>
 
-## `Bachelor of Engineer | 2007-2012`
+### `Bachelor of Engineer | 2007-2012`
   <a href="https://www.https://www.hust.edu.cn/" target="_blank"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1483512025/ochwnbywj1bibl6rzccs.png" width="500"  /></a>
  
+## 👷🏻‍♀️WORK EXPERIENCE
+### `User Experience Designer, Honeywell | 2012-2016`
+<a href="https://www.honeywell.com.cn/" target="_blank"><img src="https://s19538.pcdn.co/wp-content/uploads/2017/10/Honeywell-Logo-17.jpg" width="400"/></a>
 
- ## ⌨️ `Tech Stack I Jam On`
+### `Iteraction Design Intern, Tencent | 2010-2010`
+  <a href="https://www.tencent.com/" target="_blank"><img src="https://www.ledgerinsights.com/wp-content/uploads/2019/10/tencent-logo.png" width="400"  /></a>
+ 
+
+ ## 💻TECHNICAL SKILLS
 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo">         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
@@ -46,7 +55,7 @@
 <br/>
 <br/>
 
-# 📫 `Contact Me` 
+## ☎️CONTACT ME
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="48" width="48"/></a>
  &nbsp;&nbsp;<a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
 <p align="center">
