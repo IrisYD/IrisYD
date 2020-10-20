@@ -8,7 +8,7 @@
 ### `Master of Science, Computer Science | 2020-2022`
 ### Northeastern University 🇺🇸
 
-### `Bachelor of Engineer | 2007-2012`
+### `Bachelor of Engineering | 2007-2012`
 ### Huazhong University of Science and Technology 🇨🇳
 
  
