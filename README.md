@@ -13,7 +13,7 @@
 
  
 ## 👷🏻‍♀️ WORK EXPERIENCE
-### `User Experience Designer | 2012-2016`
+### `User Interface Engineer | 2012-2016`
 ### Honeywell
 
 ### `Iteraction Design Intern | 2010-2010`
