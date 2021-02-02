@@ -2,7 +2,7 @@
 
 ### `📍 San Jose, CA` 
 ####   `She/Her/Hers`
-#### Actively seeking SOFTWARE ENGINEER internship for 2021
+#### Incoming SDE intern at Linkedin for summer 2021
 
 ## 👩🏻‍🎓 EDUCATION
 ### `Master of Science, Computer Science | 2020-2022`
