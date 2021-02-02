@@ -29,7 +29,7 @@
 #### `Youth 📍 WUHAN 🇨🇳`
 #### `Designer & Wife & Mother 📍 SHANGHAI 🇨🇳`
 #### `mid-age Student 📍 SAN JOSE 🇺🇸`
-#### `Footprints => 🇺🇸 🇯🇵 🇮🇹 🇰🇷 🇵🇭 🇲🇾 🇪🇸 🇵🇹`🇮🇷 🇭🇰 🇹🇭 🇸🇬 
+#### `Footprints => 🇺🇸 🇯🇵 🇮🇹 🇰🇷 🇵🇭 🇲🇾 🇪🇸 🇵🇹 🇮🇷 🇭🇰 🇹🇭 🇸🇬 `
 #### `Sports => 🏐️ ⚽️ 🏸️ 🏓️ 🏊‍♀️ 🧗‍♀️ ⛺️ 🤿`
 
 
