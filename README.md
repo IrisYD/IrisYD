@@ -2,7 +2,6 @@
 
 ### `📍 San Jose, CA` 
 ####   `She/Her/Hers`
-#### Incoming SDE intern at Linkedin for summer 2021
 
 ## 👩🏻‍🎓 EDUCATION
 ### `Master of Science, Computer Science | 2020-2022`
@@ -13,6 +12,9 @@
 
  
 ## 👷🏻‍♀️ WORK EXPERIENCE
+### `Software Engineer Intern| 2021`
+### LinkedIn
+
 ### `User Interface Engineer | 2012-2016`
 ### Honeywell
 
